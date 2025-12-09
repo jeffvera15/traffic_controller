@@ -1,5 +1,5 @@
 # traffic_controller
-Traffic Light Simulation Project 
+# Traffic Light Simulation Project 
 
 ![Example](imgs/example.JPG)
 
